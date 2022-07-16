@@ -11,6 +11,7 @@ This is my first real arduino project, which I made in an attempt to understand 
 ### Software
 - KOMPAS-3D
 - Arduino IDE
+    - Used libraries: [GyverBME280](https://github.com/GyverLibs/GyverBME280)
 ## Result
 
 ![photo_2022-07-16_14-03-45](https://user-images.githubusercontent.com/94321102/179352263-31ae3391-0fbf-4f66-8520-efc9bb17cd1f.jpg)
@@ -20,5 +21,3 @@ This is my first real arduino project, which I made in an attempt to understand 
 ![photo_2022-07-16_14-27-50](https://user-images.githubusercontent.com/94321102/179352992-59f91b72-d77b-4dd9-9b42-6bedddebb4cb.jpg)
 ![photo_2022-07-16_14-27-52](https://user-images.githubusercontent.com/94321102/179352993-130a2175-20c1-450e-be83-e632c1420da6.jpg)
 ![photo_2022-07-16_14-27-56](https://user-images.githubusercontent.com/94321102/179352994-c085af1e-a27b-4fae-a520-1bad468020f4.jpg)
-
-
